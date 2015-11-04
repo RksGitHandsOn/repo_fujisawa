@@ -1,5 +1,5 @@
 # repo_fujisawa
-hello
+HELLO
 こんにちは
 good morning
 おはよう
