@@ -3,4 +3,4 @@ HELLO
 こんにちは
 good morning
 おはよう
-fugafuga
+hogfuga
